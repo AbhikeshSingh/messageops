@@ -1,3 +1,5 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/AbhikeshSingh/messageops?style=social)  ![GitHub last commit](https://img.shields.io/github/last-commit/AbhikeshSingh/messageops)
+
 # 🚀 messageops by Abhikesh
 
 Welcome to **messageops** — your go-to blueprint for building reliable, scalable messaging platforms with an SRE mindset.
