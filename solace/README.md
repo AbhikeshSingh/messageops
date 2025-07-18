@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhikeshSingh/messageops?style=flat-square)
+
 # 📡 Solace PubSub+ Playbook
 
 This folder contains Solace-specific configuration, scripts, and operational best practices.
