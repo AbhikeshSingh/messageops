@@ -9,7 +9,6 @@ Imagine many people (applications) sending and receiving letters (messages). Sol
 This helps companies build systems that work together smoothly, so their data flows without delays or errors.
 
 ---
-
 ## Why Event-Driven Architectures Matter Today
 
 Businesses today need to respond fast. For example, when you order something online, the system needs to update the stock, process payment, and notify shipping, all at once and immediately.
