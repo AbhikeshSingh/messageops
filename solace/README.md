@@ -16,7 +16,7 @@ This folder contains Solace-specific configuration, scripts, and operational bes
 
 ---
 
-### Getting Started
+### 🚀 Getting Started
 
 Start by exploring the guides and scripts here to build and maintain robust Solace messaging infrastructure.
 
