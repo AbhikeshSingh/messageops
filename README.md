@@ -2,7 +2,7 @@
 
 # 🚀 messageops by Abhikesh
 
-Welcome to **messageops** — your go-to blueprint for building reliable, scalable messaging platforms with an SRE mindset.
+Welcome to **messageops** - Your go-to blueprint for building reliable, scalable messaging platforms with an SRE mindset.
 
 👋 I’m **Abhikesh Kumar Singh**, a Site Reliability Engineering Manager and Solace PubSub+ SME with 14+ years of experience in designing, operating, and scaling messaging infrastructure.
 
