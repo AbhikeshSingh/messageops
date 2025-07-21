@@ -30,4 +30,4 @@ Solace PubSub+ is a messaging platform built to power event-driven architectures
 
 ---
 
-*In short, event-driven architecture is all about making systems smarter by letting them listen and react to what’s happening — instantly and efficiently.*
+*In short, event-driven architecture is all about making systems smarter by letting them listen and react to what’s happening - instantly and efficiently.*
