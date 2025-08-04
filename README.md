@@ -23,11 +23,16 @@ Starting with **Solace PubSub+** and expanding towards other messaging technolog
 
 ### 📂 Repository Structure
 
-- 📡 `/solace-pubsubplus/` — Solace PubSub+ guides, architecture, features, and use cases  
-- 🐘 `/kafka/` — Kafka playbooks and resources (coming soon)  
-- 🔧 `/sre/` — General SRE tooling, monitoring, and reliability guides  
-- 📑 `/docs/` — Architecture diagrams, whitepapers, and learning materials  
-- ⚙️ `/scripts/` — Automation and helper scripts for messaging platform ops  
+- 📡 `/solace-pubsubplus/` - Solace PubSub+ guides, architecture, features, and use cases (available now)  
+- 🐘 `/kafka/` - Kafka playbooks and resources *(coming soon)*  
+- 🔧 `/sre/` - General SRE tooling, monitoring, and reliability guides *(coming soon)*  
+- 📑 `/docs/` - Architecture diagrams, whitepapers, and learning materials *(coming soon)*  
+- ⚙️ `/scripts/` - Automation and helper scripts for messaging platform operations *(coming soon)*  
+
+> 🚀 Starting with Solace PubSub+ content now. Stay tuned for more messaging and SRE resources soon!
+
+
+Stay tuned for regular updates as new content rolls out! Your feedback and contributions are always welcome. 🚀
 
 ---
 
