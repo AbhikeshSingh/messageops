@@ -1,26 +1,26 @@
-# Best Practices for Solace PubSub+ Platforms
+## ✅ Best Practices for Solace PubSub+ Platforms
 
 Follow these guidelines to build and maintain a robust, secure, and high-performing Solace messaging environment.
 
-## Design and Architecture
+## 🏗️ Design and Architecture
 
 - **Topic Hierarchy:** Plan a clear and logical topic structure to simplify management and subscription patterns.
 - **Message Size:** Keep message payloads as small as practical to improve throughput and reduce latency.
 - **Redundancy:** Use broker clustering and network bridges to eliminate single points of failure.
 
-## Security
+## 🔒 Security
 
 - **Encryption:** Enable TLS for all client and broker communications to protect data in transit.
 - **Authentication and Authorization:** Use strong authentication methods (e.g., OAuth, LDAP) and fine-grained access control.
 - **Audit Logging:** Keep detailed logs of client activities and system events for compliance and troubleshooting.
 
-## Monitoring and Alerting
+## 📈 Monitoring and Alerts
 
 - **Health Metrics:** Continuously monitor broker CPU, memory, disk usage, and network throughput.
 - **Alerts:** Set up alerts for key thresholds and failures to respond quickly.
 - **Log Aggregation:** Use centralized logging solutions to correlate events and speed up root cause analysis.
 
-## Operations and Maintenance
+## ⚙️ Operations
 
 - **Backups:** Regularly back up configurations and persistent message stores.
 - **Automation:** Use scripts or automation tools for routine tasks like patching, scaling, and failover testing.
