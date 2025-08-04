@@ -1,15 +1,15 @@
-# Solace PubSub+ Architecture
+## 🚀 Solace PubSub+ Architecture
 
 This document explains the core architecture of Solace PubSub+ and how it supports fast, reliable messaging for modern applications.
 
-## Core Components
+## 🧩 Core Components
 
 - **Brokers:** The heart of the system, brokers route messages between publishers and subscribers, ensuring messages reach the right destination quickly.
 - **Topics:** Logical channels that organize messages. Publishers send messages to topics, and subscribers receive messages from them.
 - **Queues:** Temporary storage areas for messages to ensure delivery even when subscribers are offline or busy.
 - **Bridges:** Connect multiple brokers across different data centers or cloud regions for scalability and fault tolerance.
 
-## Key Architectural Principles
+## 🎯 Key Principles
 
 - **Decoupling:** Publishers and subscribers don’t need to know about each other, reducing dependencies and improving system flexibility.
 - **Event-driven Design:** Systems respond to events in real-time, enabling efficient and reactive architectures.
