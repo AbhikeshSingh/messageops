@@ -1,22 +1,23 @@
-# How to Deploy Solace PubSub+
+# Solace PubSub+ Deployment Patterns
 
-Here are some common ways to set up Solace PubSub+ for your needs.
+This guide covers common deployment strategies for Solace PubSub+ to help you choose the best fit for your environment.
 
-## Deployment Choices
+## Deployment Environments
 
-- **Your Own Servers:** Run Solace on computers you control.
-- **Cloud:** Use Solace in cloud services like AWS or Azure or some other cloud vendors.
-- **Mixed:** Use both your own servers and the cloud.
-- **Containers:** Run Solace inside lightweight, easy-to-manage packages.
+- **On-Premises:** Deploy Solace brokers on your own infrastructure for full control.
+- **Cloud:** Use Solace managed services or deploy brokers in cloud platforms like AWS, Azure, or GCP.
+- **Hybrid:** Combine on-prem and cloud deployments for flexibility and disaster recovery.
+- **Containerized:** Run Solace brokers in containers (Docker, Kubernetes) for easy scaling and management.
 
-## Setup Styles
+## Common Patterns
 
-- **Groups of Brokers:** Several brokers working together to avoid downtime.
-- **Network of Brokers:** Brokers connected to each other for better message delivery.
-- **Central with Branches:** One main broker connected to smaller ones.
+- **Clustered Brokers:** Multiple brokers working as a cluster provide high availability and load balancing.
+- **Network of Brokers:** Brokers interconnected across sites or clouds to enable global messaging and data distribution.
+- **Edge Brokers:** Lightweight brokers deployed close to data sources or consumers for low latency and efficient routing.
+- **Centralized Broker:** A single broker handles messaging traffic for smaller or less complex environments.
 
-## Using Automation
+## Automation and Infrastructure as Code
 
-Tools like Ansible or Terraform help you install and keep your setup running smoothly.
+Leverage tools like Ansible, Terraform, or Helm charts to automate deployment, configuration, and scaling, making operations repeatable and less error-prone.
 
-Pick the way that fits your size and needs best.
+Choosing the right pattern depends on your organization’s scale, reliability needs, and infrastructure capabilities.
