@@ -23,7 +23,7 @@ Starting with **Solace PubSub+** and expanding towards other messaging technolog
 
 ### 📂 Repository Structure
 
-- 📡 `/solace/` — Solace-specific configurations, scripts, and notes  
+- 📡 `/solace-pubsubplus/` — Solace PubSub+ guides, architecture, features, and use cases  
 - 🐘 `/kafka/` — Kafka playbooks and resources (coming soon)  
 - 🔧 `/sre/` — General SRE tooling, monitoring, and reliability guides  
 - 📑 `/docs/` — Architecture diagrams, whitepapers, and learning materials  
